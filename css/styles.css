@@ -70,7 +70,7 @@ body {
   .button-order:focus {
     background-color: #404bbf;
   }
-  .section-two-baslik-3 {
+  .section-two-baslik-three{
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
@@ -86,7 +86,7 @@ body {
   .section-three {
     background-color: #f4f4fd;
   }
-  .section-three-baslik-2 {
+  .section-three-baslik-two {
     font-size: 36px;
     line-height: 1.11;
     text-align: center;
@@ -97,7 +97,7 @@ body {
   .section-three-li {
     background-color: #ffffff;
   }
-  .section-three-baslik-3 {
+  .section-three-baslik-three {
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
